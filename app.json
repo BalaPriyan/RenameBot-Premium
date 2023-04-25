@@ -74,14 +74,14 @@
         "DB_URL":{
 
              "description":"Database Url Get It From Mongo DB",
-             "value": ""
+             "value": "mongodb+srv://king:king@cluster0.xavlvtf.mongodb.net/?retryWrites=true&w=majority"
 
         },
 
         "DB_NAME":{
 
                "description":"Database Name ",
-               "value": "", 
+               "value": "cluster0", 
                "required":true
 
         },
