@@ -24,7 +24,7 @@
         "CHANNEL": {
 
             "description": "Channel or Group user Name With @",
-
+            "value": "",
             "required":true
 
             
@@ -34,7 +34,7 @@
         "STRING": {
 
             "description": "Pyrogram String Session",
-
+            "value": "",
             "required": true
 
         },
@@ -42,7 +42,7 @@
         "API_ID": {
 
             "description": "Your APP ID From my.telegram.org ",
-
+            "value": "",
             "required": true
 
         },
@@ -50,7 +50,7 @@
         "API_HASH": {
 
             "description": "Your API Hash From my.telegram.org ",
-
+            "value": "",
             "required": true
 
         },
@@ -58,7 +58,7 @@
         "TOKEN": {
 
             "description": "Your Bot Token From @BotFather",
-
+            "value": "",
             "required": true
 
         },
@@ -66,21 +66,22 @@
         "ADMIN": {
 
             "description":"Add Your User ID",
-
+            "value": "",
             "required": true
 
         },
 
         "DB_URL":{
 
-             "description":"Database Url Get It From Mongo DB"
+             "description":"Database Url Get It From Mongo DB",
+             "value": ""
 
         },
 
         "DB_NAME":{
 
                "description":"Database Name ",
-
+               "value": "", 
                "required":true
 
         },
@@ -88,7 +89,7 @@
         "LOG_CHANNEL":{
 
              "description":"Channel Id Need Store Files Get Your channel id",
-
+             "value": "",
              "required": true
 
         }
