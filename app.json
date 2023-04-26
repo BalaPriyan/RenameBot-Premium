@@ -24,7 +24,7 @@
         "CHANNEL": {
 
             "description": "Channel or Group user Name With @",
-            "value": "",
+            "value": "-1001951271508",
             "required":true
 
             
@@ -42,7 +42,7 @@
         "API_ID": {
 
             "description": "Your APP ID From my.telegram.org ",
-            "value": "",
+            "value": "12635510",
             "required": true
 
         },
@@ -50,7 +50,7 @@
         "API_HASH": {
 
             "description": "Your API Hash From my.telegram.org ",
-            "value": "",
+            "value": "da59e4e56ec4fe35af603bd30208ecc5",
             "required": true
 
         },
@@ -58,7 +58,7 @@
         "TOKEN": {
 
             "description": "Your Bot Token From @BotFather",
-            "value": "",
+            "value": "5906590840:AAGhyPLskqGOTMmyZx0oSxidR7nkqSlu3eo",
             "required": true
 
         },
@@ -66,7 +66,7 @@
         "ADMIN": {
 
             "description":"Add Your User ID",
-            "value": "",
+            "value": "5856139856",
             "required": true
 
         },
@@ -89,7 +89,7 @@
         "LOG_CHANNEL":{
 
              "description":"Channel Id Need Store Files Get Your channel id",
-             "value": "",
+             "value": "-1001895367775",
              "required": true
 
         }
